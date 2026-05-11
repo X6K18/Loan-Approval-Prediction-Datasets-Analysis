@@ -53,5 +53,6 @@ Bộ dữ liệu này được sử dụng để dự đoán liệu một hồ s
 2. **Mã hóa (Encoding):** - Chuyển `education` (Graduate=1, Not Graduate=0).
    - Chuyển `self_employed` (Yes=1, No=0).
    - Chuyển `loan_status` (Approved=1, Rejected=0).
-3. **Tính toán biến mới (Feature Engineering):** - `total_assets_value` = Tổng tất cả các cột tài sản.
+3. **Tính toán biến mới (Feature Engineering):** 
+   - `total_assets_value` = Tổng tất cả các cột tài sản.
    - `loan_to_income_ratio` = `loan_amount` / `income_annum`.
