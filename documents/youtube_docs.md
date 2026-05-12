@@ -6,3 +6,5 @@ Link : https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZg
 # Github Documents
 1. https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI
 
+
+2. https://medium.com/@MalikSaadAhmed/decision-tree-classifier-using-numpy-and-skit-learn-514028f71658
