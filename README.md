@@ -26,6 +26,8 @@ This project uses a dataset of **4,269 loan applications** with **12 input featu
 
 ---
 
+> **Cleaned dataset:** [github.com/X6K18/loan-approval-cleaned-dataset](https://github.com/X6K18/loan-approval-cleaned-dataset)
+
 ## 2. Dataset
 
 ### 2.1. Summary
